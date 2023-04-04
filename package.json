@@ -17,7 +17,13 @@
     "ts-jest": "^29.0.5",
     "aws-cdk": "2.72.1",
     "ts-node": "^10.9.1",
-    "typescript": "~4.9.5"
+    "typescript": "~4.9.5",
+    "@aws-appsync/eslint-plugin": "^1.2.0",
+    "@aws-appsync/utils": "^1.2.0",
+    "esbuild": "^0.17.14",
+    "esbuild-plugin-eslint": "^0.3.5",
+    "glob": "^9.3.2",
+    "@typescript-eslint/parser": "^5.57.0"
   },
   "dependencies": {
     "aws-cdk-lib": "2.72.1",
